@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AvishSinghMiyan
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on google
+- 📫 How to reach me avishsinghmiyan@gmail.com
+- I really like programming and i want to make it my career
